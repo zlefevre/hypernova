@@ -4,6 +4,8 @@
 	$api_key = '776cf1f8452bd25d61ab61709ba824b2-us16';
 	$list_id = '3d8bc8c6e8'; 
 
+    $email   = $_POST['email'];
+
     // Let's start by including the MailChimp API wrapper
     include('./inc/MailChimp.php');
     // Then call/use the class
