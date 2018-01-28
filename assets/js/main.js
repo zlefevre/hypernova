@@ -1,7 +1,7 @@
 console.log('%c Proudly Crafted with ZiOn.', 'background: #222; color: #bada55');
 
 
-
+/*
 (function($) {
   $.fn.countdown = function(options, callback) {
     //custom 'this' selector
@@ -81,7 +81,7 @@ $("#countdown").countdown({
 function() {
 // This will run when the countdown ends
  alert("We're Out Now");
-});
+}); */
      
        
 
